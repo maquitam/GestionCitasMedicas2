@@ -1,2 +1,2 @@
 # GestionCitasMedicas2
-En esta cintinuacion del rpoyecto debemos incluir por completo el manejo de archivos y las excepciones. 
+En esta continuacion del proyecto debemos incluir por completo el manejo de archivos y las excepciones. 
